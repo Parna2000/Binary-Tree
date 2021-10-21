@@ -79,7 +79,6 @@ struct node *singleRotateRight(struct node *x)
 }
 int main()
 {
-    // struct node *root = (struct node *)malloc(sizeof(struct node));
     struct node *root = createNode(23); /*            23          */
     struct node *r1 = createNode(20);   /*            /\          */
     struct node *r2 = createNode(25);   /*           20 25        */
