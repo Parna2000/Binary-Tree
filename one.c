@@ -2,7 +2,6 @@
 // Check if the given tree is AVL(Adelson-Velskii-Landis) tree or not
 #include <stdio.h>
 #include <stdlib.h>
-
 struct node
 {
     int data;
