@@ -1,6 +1,7 @@
 // Find the least common ancestor of two nodes in a tree
 #include <stdio.h>
 #include <stdlib.h>
+
 struct node
 {
     int data;
